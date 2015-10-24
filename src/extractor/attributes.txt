@@ -1,0 +1,5 @@
+event_type
+obs_channelid
+event_starttime
+event_endtime
+hpc_bbox

@@ -1,0 +1,6 @@
+Start Date : 2012-07-01
+Start Time : 00-00-00
+End Date : 2012-12-30
+End Time : 23-00-59
+Event Type : ch
+Spatial Region : helioprojective, -5000,5000,-5000,5000
